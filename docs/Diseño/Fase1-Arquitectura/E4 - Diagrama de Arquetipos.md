@@ -1,0 +1,1 @@
+![alt text](<../Imágenes/Diagrama de arquetipos.png>)

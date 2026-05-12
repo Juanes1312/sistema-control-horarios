@@ -1,0 +1,1 @@
+![alt text](<../Imágenes/diagrama de despliegue uml.png>)
