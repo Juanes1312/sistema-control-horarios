@@ -1,0 +1,1 @@
+![alt text](<../Imágenes/modelo entidad-realcion.png>)
